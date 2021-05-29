@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\3jack\AppData\Local\TempReleases\Snapshot\1\Fabrication\Pick Place\Pick Place for flowSensorV2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/02/21
+Time:       17:07
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                         
+J3         20v                  TopLayer PIN                   230.000       -940.000      0        ""                                                                                                  
+J8         GND                  TopLayer PIN                   -230.000      -940.000      0        ""                                                                                                  
+J7         GND                  TopLayer PIN                   230.000       -1180.000     0        ""                                                                                                  
+J6         GND                  TopLayer PIN                   76.667        -1180.000     0        ""                                                                                                  
+J5         GND                  TopLayer PIN                   -76.667       -1180.000     0        ""                                                                                                  
+J4         GND                  TopLayer PIN                   -230.000      -1180.000     0        ""                                                                                                  
+J2         GND                  TopLayer PIN                   76.667        -940.000      0        ""                                                                                                  
+J1         20v                  TopLayer PIN                   -76.667       -940.000      0        ""                                                                                                  
+RT5        ""                   TopLayer thermistor            0.810         16.024        330      ""                                                                                                  
+R5         RC0805FR-0710KL      TopLayer RESC2013X60X35LL10T20 -230.000      -1020.000     180      "Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+RT4        NCP21XV103J03RA      TopLayer FP-NCP21-0_2-IPC_C    -200.000      0.000         90       "THERMISTOR NTC 10KOHM 3900K 0805"                                                                  
+RT2        NCP21XV103J03RA      TopLayer FP-NCP21-0_2-IPC_C    200.000       0.000         90       "THERMISTOR NTC 10KOHM 3900K 0805"                                                                  
+RT3        NCP21XV103J03RA      TopLayer FP-NCP21-0_2-IPC_C    0.000         -213.000      0        "THERMISTOR NTC 10KOHM 3900K 0805"                                                                  
+RT1        NCP21XV103J03RA      TopLayer FP-NCP21-0_2-IPC_C    0.000         213.000       0        "THERMISTOR NTC 10KOHM 3900K 0805"                                                                  
+R6         "16R9 1% 2010(5025)" TopLayer RESC2010(5025)_N      0.000         0.000         90       "16R9 0.75W 1% 2010 (5025 Metric)  SMD"                                                             
+R3         RC0805FR-0710KL      TopLayer RESC2013X60X35LL10T20 76.666        -1100.000     360      "Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+R2         RC0805FR-0710KL      TopLayer RESC2013X60X35LL10T20 -76.667       -1100.000     0        "Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+R4         RC0805FR-0710KL      TopLayer RESC2013X60X35LL10T20 230.000       -1100.000     360      "Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+R1         RC0805FR-0710KL      TopLayer RESC2013X60X35LL10T20 -230.000      -1100.000     360      "Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 

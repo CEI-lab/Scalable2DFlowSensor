@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\3jack\AppData\Local\TempReleases\Snapshot\1\Sources\Pick Place\Pick Place for flowSensorFlexible.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/08/20
+Time:       13:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                          
+J23        structural_pad BottomLayer structural_pad         350.000       -220.000      180      ""                                                                                                   
+J22        structural_pad BottomLayer structural_pad         1050.000      -220.000      180      ""                                                                                                   
+J21        structural_pad BottomLayer structural_pad         350.000       -235.000      0        ""                                                                                                   
+J20        structural_pad BottomLayer structural_pad         1050.000      -235.000      180      ""                                                                                                   
+J19        structural_pad TopLayer    structural_pad         1050.000      -235.000      180      ""                                                                                                   
+J18        structural_pad TopLayer    structural_pad         350.000       -235.000      180      ""                                                                                                   
+J17        structural_pad TopLayer    structural_pad         1050.000      -220.000      180      ""                                                                                                   
+J16        structural_pad TopLayer    structural_pad         350.000       -220.000      180      ""                                                                                                   
+J15        structural_pad BottomLayer structural_pad         1030.000      235.000       180      ""                                                                                                   
+J14        structural_pad BottomLayer structural_pad         350.000       235.000       180      ""                                                                                                   
+J13        structural_pad BottomLayer STRUCTURAL_PAD         350.000       220.000       0        ""                                                                                                   
+J12        structural_pad TopLayer    STRUCTURAL_PAD         350.000       235.000       180      ""                                                                                                   
+J11        structural_pad BottomLayer STRUCTURAL_PAD         1030.000      220.000       0        ""                                                                                                   
+J10        structural_pad TopLayer    STRUCTURAL_PAD         1030.000      235.000       180      ""                                                                                                   
+J9         structural_pad TopLayer    STRUCTURAL_PAD         1030.000      220.000       180      ""                                                                                                   
+J7         sensor_pad     TopLayer    PIN                    1940.000      -80.000       0        ""                                                                                                   
+J5         sensor_pad     TopLayer    PIN                    1940.000      80.000        0        ""                                                                                                   
+J4         sensor_pad     TopLayer    PIN                    1940.000      160.000       0        ""                                                                                                   
+J3         5V             TopLayer    PIN                    1744.928      163.154       0        ""                                                                                                   
+J1         15V            TopLayer    PIN                    1744.928      83.154        0        ""                                                                                                   
+J6         sensor_pad     TopLayer    PIN                    1940.000      0.000         0        ""                                                                                                   
+J2         GND            TopLayer    PIN                    1744.928      3.154         0        ""                                                                                                   
+J8         sensor_pad     TopLayer    PIN                    1940.000      -160.000      0        ""                                                                                                   
+RT5        10kOhm         BottomLayer RESC2013X100X45NL20T25 700.000       0.000         224      "Chip Thermistor, 10 KOhm, +/- 5%, 200 mW, -40 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+R5         10kOhm         BottomLayer RESC2013X60X35LL10T20  810.000       105.000       224      "RES 10.0K OHM 1/8W 1% 0805 SMD"                                                                     
+RT4        10kOhm         BottomLayer RESC2013X100X45NL20T25 200.000       -5.000        90       "Chip Thermistor, 10 KOhm, +/- 5%, 200 mW, -40 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+RT2        10kOhm         BottomLayer RESC2013X100X45NL20T25 -200.000      -5.000        90       "Chip Thermistor, 10 KOhm, +/- 5%, 200 mW, -40 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+RT3        10kOhm         BottomLayer RESC2013X100X45NL20T25 0.000         -218.000      180      "Chip Thermistor, 10 KOhm, +/- 5%, 200 mW, -40 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+RT1        10kOhm         BottomLayer RESC2013X100X45NL20T25 0.000         208.000       180      "Chip Thermistor, 10 KOhm, +/- 5%, 200 mW, -40 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel" 
+R6         "100 Ohm"      BottomLayer RESC2010(5025)_N       0.000         -5.000        90       "100 Ohms ±1% 2W Chip Resistor 2010 (5025 Metric) Thick Film"                                        
+R4         10kOhm         TopLayer    RESC2013X60X35LL10T20  200.000       -5.000        270      "RES 10.0K OHM 1/8W 1% 0805 SMD"                                                                     
+R3         10kOhm         TopLayer    RESC2013X60X35LL10T20  0.000         -218.000      0        "RES 10.0K OHM 1/8W 1% 0805 SMD"                                                                     
+R2         10kOhm         TopLayer    RESC2013X60X35LL10T20  -200.000      -5.000        270      "RES 10.0K OHM 1/8W 1% 0805 SMD"                                                                     
+R1         10kOhm         TopLayer    RESC2013X60X35LL10T20  0.000         208.000       0        "RES 10.0K OHM 1/8W 1% 0805 SMD"                                                                     
