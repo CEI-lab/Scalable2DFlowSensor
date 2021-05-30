@@ -2,6 +2,8 @@
  * Created 02/26/21
  * By Jack A. Defay
  * 
+ * Code for collecting data at different flow speeds to map speed to voltage.
+ * 
  * This code is published under the MIT Open Source Liscense
  */
 

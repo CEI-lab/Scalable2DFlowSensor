@@ -1,6 +1,9 @@
 # Created 09/01/20
 # By Jack A. Defay
 #
+# Code for reading the array of manitude data from the array sensor.
+# This was the code used for the field tests in the paper.
+#
 # This code is published under the MIT Open Source Liscense
 
 import numpy as np

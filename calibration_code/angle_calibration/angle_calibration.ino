@@ -2,6 +2,8 @@
  * Created 03/18/21
  * By Jack A. Defay
  * 
+ * Code for collecting data at different angle steps to calculate appropriate offset values to calibrate the sensor.
+ * 
  * This code is published under the MIT Open Source Liscense
  */
 

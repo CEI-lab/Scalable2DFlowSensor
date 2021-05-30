@@ -2,7 +2,7 @@
 
 Repository for paper, A Customizable, Low-Cost Alternative for Distributed 2D Flow Sensing in Swarms, published in SWARMS2021 conference. 
 
-The paper can be found @ https://cei.ece.cornell.edu/publications/
+This is an implementation of a 2D thermal flow sensor that uses a PCB with central heating element and 5 surrounding thermistors to sense both magnitude and direction of flow along a surface. See paper for details https://cei.ece.cornell.edu/publications/
 
 This work is published for the purpose of helping other groups design their own thermal flow sensors. Details for use:
 

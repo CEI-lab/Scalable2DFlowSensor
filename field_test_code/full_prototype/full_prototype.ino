@@ -2,6 +2,10 @@
  * Created 07/08/20
  * By Jack A. Defay
  * 
+ * Code for reading data from the flex sensor used in the field tests.
+ * Prints out the magnitude as an analog value for later conversion.
+ * Prints out either the calculated direction in degrees or the two cross proportions for more detail.
+ * 
  * This code is published under the MIT Open Source Liscense
  */
 
